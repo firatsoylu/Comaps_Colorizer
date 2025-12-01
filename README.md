@@ -72,7 +72,7 @@ You need a standard Python installation (`3.x`) on your desktop environment. The
 >   * **The original GPX file is NOT modified.** A new file ending in `_color.gpx` is always created.
 >   * Always verify the output file in your mapping application before relying on it.
 
-## 📤 Final Step: Import to CoMaps / OsmAnd
+## 📤 Final Step: Import to CoMaps / Organic Maps
 
 Once the script has finished:
 
