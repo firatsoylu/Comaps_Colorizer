@@ -1,6 +1,6 @@
-# 🏕️ GPX Waypoint Colorizer for CoMaps / OsmAnd
+# 🏕️ GPX Waypoint Colorizer for CoMaps / Organic Maps
 
-This Python script provides a simple solution for hikers who use **CoMaps or Organic Maps/OsmAnd** and need custom, color-coded waypoint markers in their imported GPX files.
+This Python script provides a simple solution for hikers who use **CoMaps or Organic Maps and need custom, color-coded waypoint markers in their imported GPX files.
 
 When managing complex navigation data like campsites, water sources, and trailheads, generic red pins make map planning difficult. This tool automatically injects the necessary proprietary color data into your existing GPX file based on keywords found in the waypoint name.
 
@@ -29,7 +29,7 @@ CoMaps supports KML/GPX color codes when they are nested in a specific, non-stan
 
 This immediately assigns a custom color to the pin when the file is imported into the app.
 
-## 🌈 Default Keyword-to-Color Mapping
+## Default Keyword-to-Color Mapping
 
 The following rules are used by the script to assign color codes. You can customize the `COLOR_MAP` dictionary inside the `gpx_colorizer.py` file to suit your preferences.
 
