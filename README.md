@@ -31,7 +31,7 @@ This immediately assigns a custom color to the pin when the file is imported int
 
 The images below show the default waypoint view in Comaps vs. the color coded version.
 
-![Comaps original](images/comaps_original.webp) ![Comaps colorcoded](images/comaps_color_coded.webp)
+![Comaps colorcoded](images/comaps_color_coded.webp)
 
 ## Default Keyword-to-Color Mapping
 
